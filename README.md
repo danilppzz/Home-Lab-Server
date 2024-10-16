@@ -1,1 +1,1 @@
-## Home-Lab-Server
+## Home Lab Server
