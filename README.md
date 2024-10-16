@@ -1,6 +1,6 @@
 ## Home Lab Server
 
-Some text
+A concise documentation guide for setting up a home lab server, covering essential steps, configurations, and best practices to build a personal server environment for learning, testing, and experimentation. Perfect for beginners and enthusiasts looking to enhance their technical skills at home.
 
 ### Component List
 - PDU [here](https://www.amazon.es/Perel-37331-Bloque-sockets-montaje/dp/B00GMPRIAW/ref=sr_1_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=electronics&sr=1-2)
