@@ -11,3 +11,4 @@ A concise documentation guide for setting up a home lab server, covering essenti
 - Fixed Installation Shelf 250mm [here](https://www.amazon.es/DIGITUS-Professional-Estanter%C3%ADa-TRAY-2-55-SW-profundidad/dp/B002KTE870/ref=pd_bxgy_thbs_d_sccl_1/260-2531653-2932160)
 - Fixed Installation Shelf 350mm [here](https://www.amazon.es/DIGITUS-Professional-Estanter%C3%ADa-TRAY-2-55-SW-profundidad/dp/B002RIHZZQ/ref=pd_bxgy_thbs_d_sccl_1/260-2531653-2932160)
 - Set of Cage Nuts [here](https://www.amazon.es/deleyCON-Enjauladas-Tornillos-Servidor-Pulgadas/dp/B07Q8TGT9C/ref=pd_sim_d_sccl_4_2/260-2531653-2932160)
+- Ubiquiti EdgeRouter 6P Router Gigabit PoE [here](https://www.pccomponentes.com/ubiquiti-edgerouter-6p-router-gigabit-poe)
