@@ -13,4 +13,4 @@ A concise documentation guide for setting up a home lab server, covering essenti
 - Set of Cage Nuts [here](https://www.amazon.es/deleyCON-Enjauladas-Tornillos-Servidor-Pulgadas/dp/B07Q8TGT9C/ref=pd_sim_d_sccl_4_2/260-2531653-2932160)
 - TP-Link Archer BE550 [here](https://www.amazon.es/TP-Link-Archer-C88-inal%C3%A1mbrico-Beamforming/dp/B0CKPVMVMT/ref=pd_ci_mcx_pspc_dp_d_2_i_2?pd_rd_w=LLhj5&content-id=amzn1.sym.4319a676-9ce8-4584-9618-b010a8773852&pf_rd_p=4319a676-9ce8-4584-9618-b010a8773852&pf_rd_r=YN6E5E2HVQY679JA26P6&pd_rd_wg=Ox2Oe&pd_rd_r=b1dda6c1-c3b3-40a0-81f8-3307be07408e&pd_rd_i=B0CJYGKM1J&th=1)
 - Ubiquiti EdgeRouter 6P Router Gigabit PoE [here](https://www.pccomponentes.com/ubiquiti-edgerouter-6p-router-gigabit-poe)
-- [here](https://www.pccomponentes.com/dell-poweredge-r750xs-2u-intel-xeon-silver-4314-32gb-480gb-ssd)
+- Dell PowerEdge R750xs 2U [here](https://www.pccomponentes.com/dell-poweredge-r750xs-2u-intel-xeon-silver-4314-32gb-480gb-ssd)
